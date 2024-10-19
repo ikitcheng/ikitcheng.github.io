@@ -9,6 +9,10 @@ author_profile: true
 ___
 These works provide an overview of my research in space plasma physics at Saturn and applied machine learning techniques for planetary science.
 
+* **Cheng, I.**, Achilleos, N., Blanco-Cano, X., Bertucci, C., Sergis, N., Paranicas, C., & Guio, P. (2024). "Waves and instabilities in Saturn's magnetosheath: 1 Mirror mode waves and their impact on magnetopause reconnection". <i>Journal of Geophysical Research: Space Physics, 129, e2024JA032584. </i> Full text available at <a href="https://doi.org/10.1029/2024JA032584" target="_blank" rel="noopener"> Journal of Geophysical Research </a>.
+
+* **Cheng, I.**, Achilleos, N., Blanco-Cano, X., Bertucci, C., & Guio, P. (2024). "Waves and instabilities in Saturn's magnetosheath: 2. Dispersion relation analysis". <i>Journal of Geophysical Research: Space Physics, 129, e2024JA032585. </i> Full text available at <a href="https://doi.org/10.1029/2024JA032585" target="_blank" rel="noopener"> Journal of Geophysical Research </a>.
+
 * **Cheng, I.**, Achilleos, N., Masters, A., Lewis, G., Kane, M., & Guio, P. (2021). "Electron bulk heating at Saturn's magnetopause." <i>Journal of Geophysical Research: Space Physics, 126. </i> Full text available at <a href="https://doi.org/10.1029/2020JA028800" target="_blank" rel="noopener"> Journal of Geophysical Research </a>.
 
 * **Cheng, I.K.**, Achilleos, N., Smith, A. (2022) "Automated bow shock and magnetopause boundary detection with Cassini using threshold and deep learning methods." <i>Front. Astron. Space Sci.</i> 9:1016453. Full text available at <a href="https://doi.org/10.3389/fspas.2022.1016453" target="_blank" rel="noopener">  Frontiers in Astronomy and Space Sciences </a>
