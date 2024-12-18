@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "I Kit (Matthew) Cheng"
 title_separator          : "-"
 name                     : &name "I Kit (Matthew) Cheng"
-description              : &description "Senior Data Analyst at Wynn Macau"
+description              : &description "Data Analyst & Machine Learning Specialist"
 url                      : https://ikitcheng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ikitcheng/ikitcheng.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "I Kit (Matthew) Cheng"
   avatar           : "profile.png"
-  bio              : "Senior Data Analyst at Wynn Macau"
+  bio              : "Data Analyst & Machine Learning Specialist"
   location         : "Macau | London"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
