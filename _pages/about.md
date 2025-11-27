@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Dr. Matthew Cheng is a **Senior Data Analyst** in the Customer Relationship Management (CRM) division of Wynn Resorts Macau. His responsibilities include building customer behaviour models and recommendation systems using **machine learning models** to drive gaming / non-gaming revenue and reduce marketing costs.
+Dr. Matthew Cheng is a **Senior Data Analyst** in the Customer Relationship Management (CRM) division of Wynn Resorts Macau. His responsibilities include building customer behaviour models and recommendation systems using **machine learning models** to drive gaming / non-gaming revenue and reduce marketing costs. He is also the co-founder of [Eyesquare](https://eyesquare.my.canva.site/home), a company that accelerates computer vision adoption to help individuals and teams keep an eye on what matters most: Health, Education, Transportation and more.
 
 He came from a **Physics** background and had completed a data-intensive science PhD degree at [UCL](https://www.ucl.ac.uk/astrophysics/i-kit-matthew-cheng-phd-student) specializing in **space plasma physics** with a keen interest in using machine learning to complement scientific endeavours. His research was focused on applying explainable deep learning techniques to spacecraft time-series data to detect bow shock and magnetopause boundary crossings at Saturn and to analyse the plasma processes which occur in the vicinity of these boundary layers such as different plasma instabilities.
 
